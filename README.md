@@ -11,4 +11,8 @@
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Guitomesz&repo=desafio_back_end&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Guitomesz/desafio_back_end)
 
-![snake gif](https://github.com/guitomesz/guitomesz/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guitomesz/guitomesz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guitomesz/guitomesz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
